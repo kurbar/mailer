@@ -1,6 +1,6 @@
 {
-  "name": "@nestjs-modules/mailer",
-  "version": "1.9.1",
+  "name": "@kurbar/mailer",
+  "version": "1.9.2",
   "private": false,
   "description": "NestJS - a mailer module (@mailer)",
   "keywords": [

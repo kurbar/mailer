@@ -1,3 +1,14 @@
+## Forked just for the v1.9.2 release
+
+This is a fork that just publishes the latest vulnerability fixes done to `@nest-modules/mailer`.
+
+It is released as `1.9.2` as package `@kurbar/mailer`
+
+### Installation
+```
+$> npm install @kurbar/mailer
+```
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank">
     <img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" />
